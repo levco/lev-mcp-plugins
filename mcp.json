@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "lev": {
+      "type": "http",
+      "url": "https://mcp.lev.com/mcp",
+      "auth": {
+        "CLIENT_ID": "FPVfGZHwa9wvqhLwmXiaZyJPEjnaVAZB",
+        "scopes": ["openid", "email"]
+      }
+    }
+  }
+}
