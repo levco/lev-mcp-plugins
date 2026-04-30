@@ -1,7 +1,7 @@
 {
   "name": "lev",
   "version": "1.0.0",
-  "description": "Lev MCP — connect to Lev's CRE debt-placement platform to search deals, match lenders, track placements, compare term sheets, and manage contacts and companies.",
+  "description": "Connect AI assistants to Lev's CRE AI Platform — search deals, match lenders, track placements, compare term sheets, and manage contacts and companies.",
   "author": {
     "name": "Lev Technologies",
     "email": "help@lev.com",
