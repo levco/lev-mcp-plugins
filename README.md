@@ -24,5 +24,5 @@ A Lev account is required. Sign up at [lev.com](https://www.lev.com).
 
 ## Support
 
-- **Lev Documentation:** https://docs.lev.com
+- **Lev Documentation:** https://www.lev.com/docs
 - **Report Issues:** help@lev.com
