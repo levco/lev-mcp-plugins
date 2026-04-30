@@ -1,11 +1,11 @@
 {
   "name": "lev",
+  "displayName": "Lev",
   "version": "1.0.0",
   "description": "Connect AI assistants to Lev's CRE AI Platform — search deals, match lenders, track placements, compare term sheets, and manage contacts and companies.",
   "author": {
     "name": "Lev Technologies",
-    "email": "help@lev.com",
-    "url": "https://www.lev.com"
+    "email": "help@lev.com"
   },
   "homepage": "https://www.lev.com",
   "repository": "https://github.com/levco/lev-mcp-plugins",
