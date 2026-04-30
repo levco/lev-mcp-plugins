@@ -1,1 +1,14 @@
-*  @resnicdan @asheinfeld @alxjhnsn @isaiahh @adiberk @yjzar
+# Path-scoped CODEOWNERS — admin review required only for files
+# that affect what Cursor users actually connect to.
+#
+# Other files (README, LICENSE, logo, .gitignore) only need standard
+# review from any contributor with write access.
+
+# MCP server config — URL, OAuth client_id, scopes
+/mcp.json                  @resnicdan @asheinfeld @alxjhnsn @isaiahh @adiberk @yjzar
+
+# Plugin manifest
+/.cursor-plugin/           @resnicdan @asheinfeld @alxjhnsn @isaiahh @adiberk @yjzar
+
+# Self-protect: changes to CODEOWNERS itself require admin review
+/.github/CODEOWNERS        @resnicdan @asheinfeld @alxjhnsn @isaiahh @adiberk @yjzar
